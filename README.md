@@ -5,5 +5,3 @@ UT Data Science course
 
 
 
-https://colab.research.google.com/github/kristenphan/1b-ds-dpv-assignment3/blob/master/DS_DPV_assignment3.ipynb\
-
